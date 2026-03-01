@@ -216,6 +216,26 @@ ol li {
   align-items: center;
 }
 
+.cross-note {
+  margin-top: 16px;
+  font-size: 13px;
+  color: rgba(255, 255, 255, 0.65);
+  text-align: center;
+}
+
+.cross-note img {
+  height: 48px;
+  width: auto;
+  display: inline-block;
+  vertical-align: middle;
+  margin-right: 8px;
+}
+
+.cross-note a {
+  color: rgba(255, 255, 255, 0.9);
+  text-decoration: underline;
+}
+
 .footer {
   padding: 32px 8vw 48px;
   display: flex;
